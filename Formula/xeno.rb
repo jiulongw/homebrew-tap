@@ -1,8 +1,8 @@
 class Xeno < Formula
   desc "Claude code based AI agent"
   homepage "https://github.com/jiulongw/xeno"
-  url "https://github.com/jiulongw/xeno/releases/download/v0.0.2/xeno-v0.0.2.tar.gz"
-  sha256 "a746d04870c9e4803cbde47fca7820b496dc152876782afd195af68c39b754c0"
+  url "https://github.com/jiulongw/xeno/releases/download/v0.0.3/xeno-v0.0.3.tar.gz"
+  sha256 "2189ab2ab3d608a033cd3da02844c37bfd376f869d1c4d2acaf0b07b5fea330c"
   head "https://github.com/jiulongw/xeno.git", branch: "main"
 
   depends_on "oven-sh/bun/bun"
